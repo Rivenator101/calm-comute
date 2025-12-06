@@ -1,22 +1,22 @@
-# CalmCommute 🧘‍♀️🗺️
+# CalmCommute 
 
 **A stress-aware navigation app that helps you find the calmest route to your destination.**
 
-CalmCommute is an intelligent navigation system that considers your mental well-being by providing stress-color-coded routes, interactive waypoints, and built-in breathing exercises. When you need a break, it automatically finds and reroutes you to the nearest rest stop.
+CalmCommute is an intelligent navigation system that considers your mental well-being by providing, interactive waypoints, and built-in breathing exercises. When you need a break, it automatically finds and reroutes you to the nearest rest stop.
 
 ![CalmCommute](https://img.shields.io/badge/Status-Live-success)
 ![React](https://img.shields.io/badge/React-19.2.1-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
 
-## ✨ Features
+## Features
 
-### 🗺️ Interactive Map Experience
+### Interactive Map Experience
 - **Stress-Color-Coded Routes**: Visual route segments color-coded by stress level (green = low, yellow = medium, red = high)
 - **Clickable Route Segments**: Click any route segment to see its stress level and zoom in
 - **Interactive Waypoints**: Click waypoint markers on the map to zoom to that location
 - **Real-time Route Updates**: Google Maps-style interactivity with smooth animations
 
-### 🧘 Mental Health Features
+### Mental Health Features
 - **Breathing Exercise**: 4-7-8 breathing pattern animation when you need to calm down
 - **Check-in System**: Regular prompts to assess how you're feeling during your commute
 - **Auto-Reroute to Rest Stops**: When you click "I need a break", automatically finds and reroutes to:
@@ -26,7 +26,7 @@ CalmCommute is an intelligent navigation system that considers your mental well-
   - Gas stations
   - Rest areas
 
-### 🎯 Smart Navigation
+### Smart Navigation
 - **Google Maps Autocomplete**: Dropdown suggestions like Google Maps
 - **Route Optimization**: Considers preferences like:
   - Less traffic
@@ -35,7 +35,7 @@ CalmCommute is an intelligent navigation system that considers your mental well-
   - Calming scenery
   - Fewer people
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -90,7 +90,7 @@ CalmCommute is an intelligent navigation system that considers your mental well-
    ```
    App opens at `http://localhost:3000`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 calm-commute/
@@ -132,14 +132,14 @@ calm-commute/
    - Click "I need a break" to automatically reroute to nearest rest stop
    - Breathing exercise will start automatically
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Frontend**: React 19.2, React Google Maps API
 - **Backend**: Node.js, Express, Axios
 - **APIs**: Google Maps Directions API, Places API, Maps JavaScript API
 - **Styling**: CSS3 with modern animations
 
-## 🔧 API Endpoints
+## API Endpoints
 
 ### `POST /api/getOptimalRoute`
 Get a route with stress analysis.
@@ -184,7 +184,7 @@ Find nearest rest stop (park, cafe, restaurant, etc.).
 }
 ```
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 - [ ] Real-time traffic integration for stress calculation
 - [ ] Machine learning for personalized stress prediction
@@ -193,28 +193,27 @@ Find nearest rest stop (park, cafe, restaurant, etc.).
 - [ ] Mobile app version (React Native)
 - [ ] Voice navigation with calming prompts
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
 
-## 👥 Authors
+## Authors
 
-- Your Name - [GitHub](https://github.com/yourusername)
+- Riven anwar - [GitHub](https://github.com/yourusername)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Google Maps Platform for mapping services
 - React community for excellent documentation
-- All contributors and testers
+- use of cursor AI to debug!!!!
 
 ## 📸 Screenshots
 
-_Add screenshots of your app here!_
-
+## how i i
 ---
 
 **Made with ❤️ for stress-free commutes**
