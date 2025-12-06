@@ -211,9 +211,6 @@ This project is licensed under the MIT License.
 - React community for excellent documentation
 - use of cursor AI to debug!!!!
 
-## 📸 Screenshots
-
-## how i i
 ---
 
 **Made with ❤️ for stress-free commutes**
